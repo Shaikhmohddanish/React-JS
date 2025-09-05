@@ -1,4 +1,4 @@
-## Hello React Course by Akshay Saini
+## Hello React Course by Mohd Danish
 
 # Chapter 03 - Laying the Foundation Coding Assignment
 

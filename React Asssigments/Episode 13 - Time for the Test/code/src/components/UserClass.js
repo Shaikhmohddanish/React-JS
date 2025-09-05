@@ -20,7 +20,7 @@ class UserClass extends React.Component {
     // console.log(this.props.name + 'Child Component Did Mount');
     // * API call
     const data = await fetch(
-      'https://api.github.com/users/Sreenivasulu-Kalluru'
+      'https://api.github.com/users/Shaikhmohddanish'
     );
     const json = await data.json();
 

@@ -1,4 +1,4 @@
-## Hello React Course by Akshay Saini
+## Hello React Course by Mohd Danish
 
 # Episode 12 - Let's Build Our Store
 

@@ -1,4 +1,4 @@
-## Hello React Course by Akshay Saini
+## Hello React Course by Mohd Danish
 
 # Episode 08 - Let's get Classy
 
@@ -27,4 +27,4 @@
 ## References:
 
 - [React Life Cycle Method Diagram](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
-- [Akshay Saini Code Link](https://bitbucket.org/Hellodev/Hello-react-live/src/master/)
+- [Mohd Danish Code Link](https://bitbucket.org/Hellodev/Hello-react-live/src/master/)

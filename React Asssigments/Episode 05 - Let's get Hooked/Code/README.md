@@ -13,4 +13,4 @@
 
 ## References:
 
-- [Akshay Saini Code Link](https://bitbucket.org/Hellodev/Hello-react-live/src/master/)
+- [Mohd Danish Code Link](https://bitbucket.org/Hellodev/Hello-react-live/src/master/)

@@ -1,4 +1,4 @@
-## Hello React Course by Akshay Saini
+## Hello React Course by Mohd Danish
 
 # Episode 06 - Exploring the world
 
@@ -30,4 +30,4 @@
 
 ## References:
 
-- [Akshay Saini Code Link](https://bitbucket.org/Hellodev/Hello-react-live/src/master/)
+- [Mohd Danish Code Link](https://bitbucket.org/Hellodev/Hello-react-live/src/master/)

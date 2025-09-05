@@ -1,4 +1,4 @@
-## Hello React Course by Akshay Saini
+## Hello React Course by Mohd Danish
 
 # Episode 11 - Data is the new oil
 

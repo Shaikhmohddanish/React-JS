@@ -1,4 +1,4 @@
-## Hello React Course by Akshay Saini
+## Hello React Course by Mohd Danish
 
 # Episode 04 - Talk is Cheap, show me the code
 
@@ -35,7 +35,7 @@
 
 ## References:
 
-- [Akshay Saini Code Link](https://bitbucket.org/Hellodev/Hello-react-live/src/master/)
+- [Mohd Danish Code Link](https://bitbucket.org/Hellodev/Hello-react-live/src/master/)
 - [React without JSX](https://reactjs.org/docs/react-without-jsx.html)
 - [Virtual DOM](https://reactjs.org/docs/faq-internals.html)
 - [Reconciliation](https://reactjs.org/docs/reconciliation.html)

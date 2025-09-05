@@ -62226,7 +62226,7 @@ class UserClass extends (0, _reactDefault.default).Component {
     async componentDidMount() {
         // console.log(this.props.name + 'Child Component Did Mount');
         // * API call
-        const data = await fetch("https://api.github.com/users/Sreenivasulu-Kalluru");
+        const data = await fetch("https://api.github.com/users/Shaikhmohddanish");
         const json = await data.json();
         this.setState({
             userInfo: json

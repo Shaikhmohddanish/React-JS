@@ -82,7 +82,7 @@ class UserClass extends React.Component {
   async componentDidMount() {
     // * API call
     const data = await fetch(
-      'https://api.github.com/users/Sreenivasulu-Kalluru'
+      'https://api.github.com/users/Shaikhmohddanish'
     );
     const json = await data.json();
 
@@ -424,7 +424,7 @@ class Profile extends React.Component {
     console.log("Component Did Mount");
     
     // API call
-    const data = await fetch("https://api.github.com/users/akshaymarch7");
+    const data = await fetch("https://api.github.com/users/Shaikhmohddanish7");
     const json = await data.json();
     
     this.setState({
@@ -491,7 +491,7 @@ const Profile = (props) => {
     
     // API call
     const fetchData = async () => {
-      const data = await fetch("https://api.github.com/users/akshaymarch7");
+      const data = await fetch("https://api.github.com/users/Shaikhmohddanish7");
       const json = await data.json();
       setProfile(json);
     };

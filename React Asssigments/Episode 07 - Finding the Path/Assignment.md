@@ -1,4 +1,4 @@
-## Hello React Course by Akshay Saini
+## Hello React Course by Mohd Danish
 
 # Episode 07 - Finding the Path
 
@@ -22,7 +22,7 @@
 
 ## References:
 
-- [Akshay Saini Code Link](https://bitbucket.org/Hellodev/Hello-react-live/src/master/)
+- [Mohd Danish Code Link](https://bitbucket.org/Hellodev/Hello-react-live/src/master/)
 - [React Router DOM](https://reactrouter.com/en/main)
 - [Client Side Routing](https://reactrouter.com/en/main/start/overview)
 - [Formik](https://formik.org/)
